@@ -1,0 +1,111 @@
+    1  sudo su
+    2  1s
+    3  ls
+    4  mkdir folder1
+    5  ls
+    6  nano biodata.txt
+    7  cat biodata.txt
+    8  neofetch
+    9  mkdir Tugas1
+   10  ls
+   11  nano Biodata2.txt
+   12  cat biodata.txt
+   13  nano Biodata2.txt
+   14  cat Biodata2.txt
+   15  ls
+   16  mkdir tugas-1
+   17  ls
+   18  cd tugas-1
+   19  ls
+   20  nano biodata.txt
+   21  ls
+   22  cat biodata.txt
+   23  cd
+   24  ls
+   25  cd latihan-git/
+   26  sudo apt update
+   27  sudo apt install chromium-browser
+   28  sudo dpkg --configure -a
+   29  sudo apt install chromium-browser
+   30  google-chrome
+   31  chromium-browser
+   32  sudo apt install chromium-browser
+   33  ls
+   34  cd latihan-git/
+   35  ls
+   36  mkdir latihan-git
+   37  ls
+   38  cd latihan-git/
+   39  chromium-browser
+   40  sudo poweroff
+   41  exit
+   42  chromium browser
+   43  sudo apt install xdg-utils
+   44  chromium-browser
+   45  chromium browser
+   46  ls
+   47  cd latihan-git
+   48  chromium-browser
+   49  sudo apt install
+   50  google chrome
+   51  ls
+   52  sudo apt install gdebi-core
+   53  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   54  sudo gdebi google-chrome-stable_current_amd64.deb
+   55  google-chrome
+   56  sudo gdebi google-chrome-stable_current_amd64.deb
+   57  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   58  gh pr status
+   59  gh auth login
+   60  sudo apt install gh
+   61  gh auth login
+   62  google-chrome-stable
+   63  cd Downloads/
+   64  ls
+   65  cd Downloads
+   66  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   67  google-chrome-stable
+   68  sudo apt install -f
+   69  google-chrome
+   70  ls
+   71  cd latihan-git/
+   72  ls
+   73  cd .
+   74  code .
+   75  git --version
+   76  gh --version
+   77  gh auth login
+   78  gh auth status
+   79  code .
+   80  ls
+   81  nano index.html
+   82  cd ..
+   83  mkdir git-latihan
+   84  ls
+   85  cd git-latihan/
+   86  code .
+   87  git init
+   88  code .
+   89  git init
+   90  cd git-latihan
+   91  git init
+   92  cd git-latihan
+   93  code .
+   94  gh auth login
+   95  sudo apt install curl
+   96  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+   97  source ~/.bashrc
+   98  nvm --version
+   99  git --version
+  100  nvm install v14.15.4
+  101  node -v
+  102  git clone https://github.com/misterpotabi/project-uas-komdat uas-komdat-24
+  103  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  104  ls
+  105  cd uas-komdat-24
+  106  code .
+  107  npm install
+  108  npm run start
+  109  code .
+  110  npm run start
+  111  history > command-history.txt
